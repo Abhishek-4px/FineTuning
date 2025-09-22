@@ -50,7 +50,7 @@ Fine-tuning is performed using **Low Rank Adaptation (LoRA)** for parameter-effi
 
 ### DeepSeek R1 Distill Llama 8B
 
-- **Training loss reduced from 1.96 to 1.45** during 1 epoch (60 steps).
+- **Training loss reduced from 1.96 to 1.31** during 1 epoch (60 steps).
 - Demonstrates solid generalization and alignment toward chain-of-thought medical reasoning.
 
 ### Metric Calculation
