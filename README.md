@@ -51,6 +51,8 @@ Due to out-of-memory (OOM) errors during response generation, it was not possibl
 - **ROUGE-L:** 0.4–0.6 (expected range)  
 These are only estimates in accordance of the Losses
 
+## You won't be able to deploy these Models on HuggingFace Spaces due to Hardware Limitations . Prefer Finetuning Qwen 0.5-2.5B Instruct , making some changes in the params , if your main aim is also deploying the chatbot.
+
 ---
 
 ## LoRA Fine-Tuning Implementation
